@@ -2,7 +2,7 @@
 Object Detection Models: YOLO and SSD 
 Image Segmentation Models: FCN, SegNet, UNet, and DeepLabv3
 
-Object Detection aims at providing a bounding box around the desired object class, while image segmentation aims at providing a pixel mask over the entire object class.
+Object Detection aims at providing a bounding box around the desired object class, while image segmentation aims at providing a pixel mask over the entire object class. See below:
 
 ![image](https://user-images.githubusercontent.com/63126473/172285545-5240659d-c6ef-4801-97e1-ed3478b81345.png)
 
